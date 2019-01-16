@@ -1,9 +1,16 @@
 # Generative Networks
 
-## DCGAN Results:
-
-![Generations](./results/results.gif)
 
 ## VAE Results:
 
 ![Generations](./results/vae_results.gif)
+
+
+## DCGAN Results:
+
+![Generations](./results/results.gif)
+
+
+## WGAN Results:
+
+![Generations](./results/wgan_results.gif)
